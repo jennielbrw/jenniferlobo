@@ -1,7 +1,7 @@
 ## Oii, meu nome é Jennifer e sejam bem-vindos ao meu perfil!
 
 <p align="left"> 
-  Tenho 21 anos, gosto de ouvir música, assistir séries, filmes e sou apaixonada por programação. Já trabalhei como atendente de loja, de padaria e já fui babá. Atualmente iniciei meus estudos na área de Desenvolvimento Web Full Stack na Growdev e estou no primeiro período da faculdade de Análise e Desenvolvimento de Sistemas. Meu objetivo é ser Desenvolvedora Front-end.
+  Tenho 21 anos, gosto de ouvir música, assistir séries, filmes e sou apaixonada por programação. Já trabalhei como atendente de loja, de padaria e já fui babá. Atualmente iniciei meus estudos na área de Desenvolvimento Web Full Stack na Growdev e estou no segundo período da faculdade de Análise e Desenvolvimento de Sistemas. Meu objetivo é ser Desenvolvedora Front-end.
 </p>
 
 <p align="left">
